@@ -1,7 +1,7 @@
 {
   "name": "mobx-state-tree-react-typescript-proper-lazy-loading-cache",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mobx State Tree (MST) with TypeScript enable",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
